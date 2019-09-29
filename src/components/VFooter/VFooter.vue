@@ -1,5 +1,5 @@
 <template>
-  <div class="v-footer-wrapper">哈哈哈哈</div>
+  <div class="v-footer-wrapper">哈哈哈哈test</div>
 </template>
 
 <style lang="scss" scoped>
