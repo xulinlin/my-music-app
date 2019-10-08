@@ -2,3 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
+html,body {
+  height: 100%;
+}
+
+//防止某些浏览器对img处理了content导致不显示,reset.css添加
+img { 
+  content: normal !important; 
+}
