@@ -25,7 +25,7 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-vue": "^5.0.0",
     "file-loader": "^4.2.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "postcss-aspect-ratio-mini": "^1.0.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-import": "^12.0.1",
